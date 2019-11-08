@@ -1459,8 +1459,16 @@ let cards = [
 	imageLink: "./Art/Alara Joel/stealth ghost.png",
 	author: "Alara Joel",
 	githubLink: "https://github.com/stealthman22"
-}
+},
+	{
+      artName: "Waveanimation",
+      pageLink: "./Art/Waveanimation/index.html",
+      imageLink: "./Art/Waveanimation/wave.gif",
+      author: "jmreguyal",
+      githubLink: "https://github.com/jmreguyal"
+	}
 ];
+
 
 // +--------------------------------------------------------------------------------+
 // +                                                                                +
